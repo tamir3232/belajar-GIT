@@ -3,3 +3,5 @@ rencana belajar :
     yantg di binar
   2. belajar API
   3. belajar node.js
+  4. belajar framework 
+  5. belajar php juga
