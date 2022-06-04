@@ -1,7 +1,7 @@
 rencana belajar : 
   1. belajar javascript
     yantg di binar
-  2. belajar API
+
   3. belajar node.js
   4. belajar framework 
   5. belajar php juga
